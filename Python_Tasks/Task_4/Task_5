@@ -1,0 +1,43 @@
+# Python Task 05 – HackerRank Coding Practice
+
+## About This Task
+This task contains 20 Python coding problems solved using HackerRank.
+
+## Topics Covered
+- Python Fundamentals
+- Loops and Conditional Statements
+- Strings
+- Lists
+- Dictionaries
+- Sets
+- Collections
+
+## Solutions
+The solutions are saved in separate Python files in the same order as the given questions.
+
+- `problem1.py` – Find the Runner-Up Score!
+- `problem2.py` – String Split and Join
+- `problem3.py` – Mutations
+- `problem4.py` – Find a String
+- `problem5.py` – String Validators
+- `problem6.py` – Introduction to Sets
+- `problem7.py` – Symmetric Difference
+- `problem8.py` – Set .add()
+- `problem9.py` – Word Order
+- `problem10.py` – Swap Case
+- `problem11.py` – Text Wrap
+- `problem12.py` – Capitalize!
+- `problem13.py` – Nested Lists
+- `problem14.py` – Finding the Percentage
+- `problem15.py` – Lists
+- `problem16.py` – Collections.Counter()
+- `problem17.py` – No Idea!
+- `problem18.py` – The Minion Game
+- `problem19.py` – Merge the Tools!
+- `problem20.py` – Piling Up!
+
+## Platform
+[HackerRank](https://www.hackerrank.com/)
+
+## Submission
+This task is submitted through GitHub and LMS as part of the Python coding practice assignment.
